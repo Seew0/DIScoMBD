@@ -1,19 +1,7 @@
-# Hacktoberfest 2022 `OPEN FIRST` Pull Request - `FREE T-SHIRT`\U0001f389
-![Hacktoberfest 2021](.github/logo.png)
 
-
-## Contributors of `Hacktoberfest 2022`
-
-<div align="center">
-
-<a href="https://github.com/seew0/DIScoMBD/graphs/contributors>
-  <img src="https://contrib.rocks/image?repo=seew0/DIScoMBD" />
-</a>
-  
-  </div>
 
 # Hacktoberfest 2022 `OPEN FIRST` Pull Request - `FREE T-SHIRT`🎉
-![Hacktoberfest 2021](.github/logo.png)
+
 
 
 ## Contributors of `Hacktoberfest 2022`
@@ -21,7 +9,7 @@
 <div align="center">
 
 <a href="https://github.com/ossamamehmood/Hacktoberfest2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2022" />
+  <img src="https://contrib.rocks/image?repo=seew0/DIScoMBD" />
 </a>
   
   </div>
